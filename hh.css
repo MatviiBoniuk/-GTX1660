@@ -6,7 +6,7 @@
 
   .rowtitle {
     display: flex;
-    justify-content: left;
+    justify-content: center;
    }
 
   .titlebox {
@@ -14,9 +14,7 @@
     height: 930px;
     border: none;
     background-color: #fff;
-    margin: 10px;
     text-align: left;
-    padding: 5px;
     box-sizing: border-box;
     border-radius: 35px; 
   }
@@ -44,7 +42,6 @@
     justify-content: center;
     align-items: left;
     line-height: 1.4;
-    padding-left: 80px;
   }
 
   .pic1 img {
